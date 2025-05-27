@@ -1,0 +1,26 @@
+
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="https://github.com/kussiaQWERT/l/settings/pages">ГЛАВНАЯ СТРАНИЦА</a>
+    </header>
+    <main>
+      <h1>МОИ САЙТЫ</h1>
+      <p class="text-big"><b>от конструктора Tilda до вёрстки на HTML и CSS</b></p>
+      <p><a class="link-text" href="https://www.figma.com/design/dUg9J2jct5GrFvZjEuIhZt/Untitled?node-id=0-1&m=dev&t=MTZGde9dpB0mMQHL-1"><b>Дизайн</b></a> Дизайн созданый в Figma (Фигма)</p>
+        <p><a class="link-text" href="https://www.piskelapp.com/"><b>Сайт</b></a> стили были написаны в атрибуте style</p>
+        
+        <p><a class="link-text" href="https://kussiaqwert.github.io/Red-Mold/"><b>Сайт</b></a> магазина фейерверков, CSS-селекторы, файл стилей</p>
+        <p><a class="link-text" href="https://nadvilbo>
+        <p><a class="link-text" href="https://kussiaqwert.github.io/42/"><b>Сайт</b></a> Магазин электроники</p>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://i.postimg.cc/T2mp066D/1781ca9b-c95e-4729-b2b1-e517e7b07a25.jpg" width="auto" height="50px"/></a> 
+      <h1 class="USER">@FAN_RAVE42</h1>>
+    </footer>
+  </body>
+</html>
